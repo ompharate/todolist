@@ -7,7 +7,7 @@
 body {
 
     height:100%;
-    background-color: black;
+    background-color: rgb(16, 14, 148);
 
 }
 
@@ -17,7 +17,7 @@ h1{
     font-weight: 50;
     margin:  1rem 0 3rem;
     text-align:center;
-    color: blue;
+    color: rgb(255, 255, 255);
     font-family: 'Bebas Neue', cursive;
 
 }
@@ -92,7 +92,7 @@ h1{
 
     background:none;
     outline:none;
-    color:#fff;
+    color:rgb(255, 255, 255);
     border:none;
     width: 350px;
     font-size: 1.4rem; 
@@ -120,7 +120,7 @@ h1{
     font-family: 'Bebas Neue', cursive;
     background: none;
     outline:none;
-    color:rgb(214, 0, 0);
+    color:rgb(243, 57, 57);
     border:none;
     cursor: pointer;
     
