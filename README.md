@@ -1,4 +1,5 @@
 # TODO List App
+/github/followers/:user?label=Follow
 
 ## Table of contents
 * [General info](#general-info)
