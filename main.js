@@ -5,7 +5,6 @@ const container = document.querySelector('.container');
 
 class item{
     constructor(itemName){
-        //Create item div
 
         this.createDiv(itemName);
 
